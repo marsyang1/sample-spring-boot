@@ -6,5 +6,6 @@
 	</head>
 	<body>
 		<h1>Hello </h1>
+		<a href="/hello">Enter Hello</a>
 	</body>
 </html>
